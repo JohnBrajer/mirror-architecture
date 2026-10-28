@@ -1,11 +1,24 @@
 cff-version: 1.2.0
-message: "If you reference this framework, cite this repository and John Brajer as creator."
-title: "Mirror Architecture"
-type: dataset
+message: "If you use or reference this work, please cite it as below."
+title: "Mirror Architecture by John Brajer"
+abstract: "Mirror Architecture by John Brajer: nested expressions, continuity, and pattern translation across scales."
+type: software
 authors:
-  - family-names: "Brajer"
-    given-names: "John"
-version: "0.1"
-date-released: "2026-09-25"
-url: "https://github.com/JohnBrajer/mirror-architecture"
+  - family-names: Brajer
+    given-names: John
+    orcid: "https://orcid.org/0009-0004-0113-1341"
+    affiliation: "Trillsverse LLC"
+    website: "https://trillsverse.com"
 repository-code: "https://github.com/JohnBrajer/mirror-architecture"
+url: "https://www.mymindmine.com"
+keywords:
+  - "Brajology"
+  - "John Brajer"
+  - "Trillsverse"
+  - "complex-systems"
+  - "intelligence-injections"
+  - "john-brajer"
+  - "mirror-architecture"
+  - "philosophy"
+  - "systems-thinking"
+  - "trillsverse"
