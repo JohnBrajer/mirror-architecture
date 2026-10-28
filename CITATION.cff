@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Mirror Architecture by John Brajer"
 abstract: "Mirror Architecture by John Brajer: nested expressions, continuity, and pattern translation across scales."
 type: software
+doi: "10.5281/zenodo.23718109"
 authors:
   - family-names: Brajer
     given-names: John
